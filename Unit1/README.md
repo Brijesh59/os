@@ -10,9 +10,10 @@
 #### 3. Process Management
 - <a href="https://www.youtube.com/watch?v=OrM7nZcxXZU&list=PLBlnK6fEyqRiVhbXDGLXDk_OQAeuVcp2O&index=16">What do you mean by Process in OS?</a>
 - <a href="https://www.youtube.com/watch?v=jZ_6PXoaoxo&list=PLBlnK6fEyqRiVhbXDGLXDk_OQAeuVcp2O&index=17">States of a Process</a>
-- <a href="https://www.youtube.com/watch?v=4s2MKuVYKV8&index=18&list=PLBlnK6fEyqRiVhbXDGLXDk_OQAeuVcp2O">Process Control Box(PCB)</a>
+- <a href="https://www.youtube.com/watch?v=4s2MKuVYKV8&index=18&list=PLBlnK6fEyqRiVhbXDGLXDk_OQAeuVcp2O">Process Control Block (PCB)</a>
 - <a href="https://www.youtube.com/watch?v=2h3eWaPx8SA&index=19&list=PLBlnK6fEyqRiVhbXDGLXDk_OQAeuVcp2O">Process Scheduling</a>
-- <a href="">Operations on a Process</a>
+- <a href="https://www.youtube.com/watch?v=vTgccrbYHYs&list=PLBlnK6fEyqRiVhbXDGLXDk_OQAeuVcp2O&index=20">Context Switch</a>
+- <a href="https://www.youtube.com/playlist?list=PLLDv5YXzs14j_qB5B8uzhxOPNmKgIzh2p">Operations on a Process</a>
 #### 4. Introduction to OS concepts
 - Evolution of OS
 - <a href="https://www.youtube.com/watch?v=TQWERtMoKbI&index=7&list=PLBlnK6fEyqRiVhbXDGLXDk_OQAeuVcp2O">Services Provided by OS</a>
