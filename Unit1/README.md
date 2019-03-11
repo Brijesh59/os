@@ -9,3 +9,7 @@
 - <a href="https://www.youtube.com/watch?v=EavqupVh8ls&list=PLBlnK6fEyqRiVhbXDGLXDk_OQAeuVcp2O&index=10">What are the types of system calls?</a>
 #### 3. Process Management
 #### 4. Introduction to OS concepts
+- Evolution of OS
+- <a href="https://www.youtube.com/watch?v=TQWERtMoKbI&index=7&list=PLBlnK6fEyqRiVhbXDGLXDk_OQAeuVcp2O">Services Provided by OS</a>
+- <a href="https://www.youtube.com/watch?v=8duV1LLHHJU&pbjreload=10">Modes in OS</a>
+- <a href="https://github.com/nu11secur1ty/Kernel-and-Types-of-kernels/blob/master/Kernel%20and%20Types%20of%20kernels.md">Kernel and its Types</a>
