@@ -19,3 +19,4 @@
 - <a href="https://www.youtube.com/watch?v=TQWERtMoKbI&index=7&list=PLBlnK6fEyqRiVhbXDGLXDk_OQAeuVcp2O">Services Provided by OS</a>
 - <a href="https://www.youtube.com/watch?v=8duV1LLHHJU&pbjreload=10">Modes in OS</a>
 - <a href="https://github.com/nu11secur1ty/Kernel-and-Types-of-kernels/blob/master/Kernel%20and%20Types%20of%20kernels.md">Kernel and its Types</a>
+- <a href="https://www.youtube.com/watch?v=VEOvEJa-yS8">Shell</a>
