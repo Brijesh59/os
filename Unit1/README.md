@@ -8,6 +8,11 @@
 - <a href="https://www.youtube.com/watch?v=lhToWeuWWfw&index=9&list=PLBlnK6fEyqRiVhbXDGLXDk_OQAeuVcp2O">What is a System Call?</a>
 - <a href="https://www.youtube.com/watch?v=EavqupVh8ls&list=PLBlnK6fEyqRiVhbXDGLXDk_OQAeuVcp2O&index=10">What are the types of system calls?</a>
 #### 3. Process Management
+- <a href="">What do you mean by Process in OS?</a>
+- <a href="">States of a Process</a>
+- <a href="">Process Control Box(PCB)<>
+- <a href="">Process Scheduling</a>
+- <a href="">Operations on a Process</a>
 #### 4. Introduction to OS concepts
 - Evolution of OS
 - <a href="https://www.youtube.com/watch?v=TQWERtMoKbI&index=7&list=PLBlnK6fEyqRiVhbXDGLXDk_OQAeuVcp2O">Services Provided by OS</a>
