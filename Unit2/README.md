@@ -2,7 +2,7 @@
 ## Unit 2 <br />
 #### 1. CPU Scheduling 
 - <a href="https://www.youtube.com/watch?v=KjTea8sFDiI&list=PLWPirh4EWFpGkHH9JTKH9KsnfAA471Fhy&index=9">CPU scheduler and dispatcher, Preemptive and Non-Preemptive Scheduling, Scheduling criteria</a>
-#### 1. CPU Scheduling algorithms 
+#### 2. CPU Scheduling algorithms 
 - <a href="https://www.youtube.com/watch?v=soSB2r3e9zI&list=PLWPirh4EWFpGkHH9JTKH9KsnfAA471Fhy&index=10">First come first serve</a>
 - <a href="https://www.youtube.com/watch?v=6KBkAbHbark&list=PLWPirh4EWFpGkHH9JTKH9KsnfAA471Fhy&index=11">Shortest job first</a>
 - <a href="https://www.youtube.com/watch?v=Vjr16xDgi4s&list=PLWPirh4EWFpGkHH9JTKH9KsnfAA471Fhy&index=12">Priority CPU Scheduling</a>
@@ -12,4 +12,4 @@
 - Real time Scheduling
 
 #### Another playlist to practice CPU sheduling concepts <br />
-*https://www.youtube.com/playlist?list=PLLDv5YXzs14hm1KP05tRvzJGNo5U9xBQ6*
+> *https://www.youtube.com/playlist?list=PLLDv5YXzs14hm1KP05tRvzJGNo5U9xBQ6*
