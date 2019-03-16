@@ -10,3 +10,6 @@
 - <a href="https://www.youtube.com/watch?v=Z2nxQbJxn7g&list=PLWPirh4EWFpGkHH9JTKH9KsnfAA471Fhy&index=14">Multi level Queue and Multi level feedback queue</a>
 - Multiprocessor Scheduling
 - Real time Scheduling
+
+#### Another playlist to practice CPU sheduling concepts <br />
+*https://www.youtube.com/playlist?list=PLLDv5YXzs14hm1KP05tRvzJGNo5U9xBQ6*
