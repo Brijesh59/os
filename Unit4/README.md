@@ -4,10 +4,10 @@
 - <a href="https://www.youtube.com/watch?v=zb2JDY-vNl0&list=PLWPirh4EWFpGkHH9JTKH9KsnfAA471Fhy&index=26&t=0s">Deadlock Introduction & Deadlock Characterisation(Necessary conditions for Deadlock to happen)</a>
 - <a href="https://www.youtube.com/watch?v=-VksGXfiK7k&list=PLWPirh4EWFpGkHH9JTKH9KsnfAA471Fhy&index=26">Resource Allocation Graph</a>
 > Methods of Handling Handling Deadlock
-  - 1. Deadlock Prevention
-  - 2. Deadlock Avoidance
-  - 3. Deadlock Detection
-  - 4. Deadlock Recovery
+   1. Deadlock Prevention
+   2. Deadlock Avoidance
+   3. Deadlock Detection
+   4. Deadlock Recovery
 - <a href="https://www.youtube.com/watch?v=_sKaad5GrYc&list=PLWPirh4EWFpGkHH9JTKH9KsnfAA471Fhy&index=27">Deadlock Prevention</a>
 - <a href="https://www.youtube.com/watch?v=-VoZvNvYt-A&list=PLWPirh4EWFpGkHH9JTKH9KsnfAA471Fhy&index=28">Deadlock Avoidance and Banker's Algorithm</a>
 - <a href="https://www.youtube.com/watch?v=2N8iiDiHjXw&list=PLWPirh4EWFpGkHH9JTKH9KsnfAA471Fhy&index=29">Banker's Algorithm Example</a>
