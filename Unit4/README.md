@@ -30,10 +30,10 @@
 
 - Free-Space Management: Since disk space is limited, we need to reuse the space from deleted files for new files, if possible. To keep track of free disk space, the system maintains a free-space list. <br />
 The free-space list records all free disk blocks—those not allocated to some file or directory. To create a file, we search the free-space list for the required amount of space and allocate that space to the new file. This space is then removed from the free-space list. When a file is deleted, its disk space is added to the free-space list. <br />
-      Five Different Methods to implement free-space list - <br />
-      - Bit Vector
-      - Linked List
-      - Grouping
-      - Counting
-      - Space Maps
+Five Different Methods to implement free-space list - <br />
+   - Bit Vector
+   - Linked List
+   - Grouping
+   - Counting
+   - Space Maps
 
