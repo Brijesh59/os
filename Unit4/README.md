@@ -18,3 +18,11 @@
 #### 2. Information Management
 
 #### 3. File Management
+- Allocation Methods: The allocation methods define how the files are stored in the disk blocks. There are three main disk space or file allocation methods - 
+   1. Contiguous Allocation
+   2. Linked Allocation
+   3. Indexed Allocation
+Video Link - <a href="https://www.youtube.com/watch?v=LWPMnCNd1q8">https://www.youtube.com/watch?v=LWPMnCNd1q8</a>
+Notes Link - <a href="https://www.geeksforgeeks.org/file-allocation-methods/">https://www.geeksforgeeks.org/file-allocation-methods/</a>
+
+#NOTE - Take a look at First Fit, Best Fit and Worst Fit in the video. That is part of the Syllabus.
