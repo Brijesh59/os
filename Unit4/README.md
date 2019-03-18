@@ -3,7 +3,7 @@
 #### 1. Deadlock
 - <a href="https://www.youtube.com/watch?v=zb2JDY-vNl0&list=PLWPirh4EWFpGkHH9JTKH9KsnfAA471Fhy&index=26&t=0s">Deadlock Introduction & Deadlock Characterisation(Necessary conditions for Deadlock to happen)</a>
 - <a href="https://www.youtube.com/watch?v=-VksGXfiK7k&list=PLWPirh4EWFpGkHH9JTKH9KsnfAA471Fhy&index=26">Resource Allocation Graph</a>
-> Methods of Handling Handling Deadlock
+> Methods of Handling Deadlock
    1. Deadlock Prevention
    2. Deadlock Avoidance
    3. Deadlock Detection
@@ -22,6 +22,7 @@
    1. Contiguous Allocation
    2. Linked Allocation
    3. Indexed Allocation <br />
+
 Video Link - <a href="https://www.youtube.com/watch?v=LWPMnCNd1q8">https://www.youtube.com/watch?v=LWPMnCNd1q8</a> <br />
 Notes Link - <a href="https://www.geeksforgeeks.org/file-allocation-methods/">https://www.geeksforgeeks.org/file-allocation-methods/</a>
 
