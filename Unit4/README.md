@@ -25,7 +25,6 @@
 
    Video Link - <a href="https://www.youtube.com/watch?v=LWPMnCNd1q8">https://www.youtube.com/watch?v=LWPMnCNd1q8</a> <br />
    Notes Link - <a href="https://www.geeksforgeeks.org/file-allocation-methods/">https://www.geeksforgeeks.org/file- allocation-methods/</a>
-
    #NOTE - Take a look at First Fit, Best Fit and Worst Fit in the video. That is part of the Syllabus.
 
 - Free-Space Management: Since disk space is limited, we need to reuse the space from deleted files for new files, if possible. To keep track of free disk space, the system maintains a free-space list. <br />
