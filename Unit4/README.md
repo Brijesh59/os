@@ -36,3 +36,5 @@ Five Different Methods to implement free-space list - <br />
    - Counting
    - Space Maps
 
+   Video Link - <a href="https://www.youtube.com/watch?v=pDMonZ4TbwA">Link1</a> <a href="https://www.youtube.com/watch?v=SKTWILin0OU">Link2</a>  <br />
+   Notes Link - <a href="https://www.geeksforgeeks.org/operating-system-free-space-management/">Notes</a>
