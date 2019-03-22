@@ -17,10 +17,10 @@
   5. <a href="https://www.sanfoundry.com/operating-system-mcqs-deadlock-recovery/">Deadlock Recovery</a>
   
 - Information management <br />
-  1. <a href="https://www.sanfoundry.com/operating-system-questions-answers-file-system-concepts/">File System</a>
+  1. <a href="https://www.sanfoundry.com/operating-system-questions-answers-file-system-concepts/">File System1</a>
   2. <a href="https://www.sanfoundry.com/operating-system-questions-answers-file-system-implementation/">File System2</a>
   3. <a href="https://www.sanfoundry.com/operating-system-mcqs-file-system-interface-directory-structure-1/">Directory Structure1</a>
-  4. <a href="https://www.sanfoundry.com/operating-system-mcqs-file-system-interface-directory-structure-2/">Directory Structure 2</a>
+  4. <a href="https://www.sanfoundry.com/operating-system-mcqs-file-system-interface-directory-structure-2/">Directory Structure2</a>
 
 - File Management <br />
   1. <a href="https://www.sanfoundry.com/operating-system-mcqs-file-system-allocation-methods-1/">Allocation Methods1</a>
@@ -28,5 +28,14 @@
   3. <a href="https://www.sanfoundry.com/operating-system-mcqs-file-system-allocation-methods-3/">Allocation Methods3</a>
    
 #### Unit - 5
-
+- Memory Management
+  1. <a href="https://www.sanfoundry.com/operating-system-questions-answers-memory-management/">Memory Management</a>
+  2. <a href="https://www.sanfoundry.com/operating-system-mcqs-memory-allocation-1/">Memory Allocation1</a>
+  3. <a href="https://www.sanfoundry.com/operating-system-mcqs-memory-allocation-2/">Memory Allocation2</a>
+  4. <a href="https://www.sanfoundry.com/operating-system-mcqs-memory-management-swapping-1/">Swapping Processes1</a>
+  5. <a href="https://www.sanfoundry.com/operating-system-mcqs-memory-management-swapping-2/">Swapping Processes2</a>
+  6. <a href="https://www.sanfoundry.com/operating-system-mcqs-memory-management-paging-1/">Paging1</a>
+  7. <a href="https://www.sanfoundry.com/operating-system-mcqs-memory-management-paging-2/">Paging2</a>
+  8. <a href="https://www.sanfoundry.com/operating-system-mcqs-memory-management-segmentation/">Segmentation</a>
+  
 #### Unit - 6
