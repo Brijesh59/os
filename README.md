@@ -45,3 +45,7 @@
   1. <a href="https://www.sanfoundry.com/operating-system-questions-answers-protection-concepts/">Protection</a>
   2. <a href="https://www.sanfoundry.com/operating-system-mcqs-protection-access-matrix/">Protection – Access Matrix</a>
   3. <a href="https://www.sanfoundry.com/operating-system-questions-answers-security/">Security</a>
+- Disk Management
+  1. <a href="https://www.sanfoundry.com/operating-system-mcqs-disk-management/">Disk Management</a>
+  2. <a href="https://www.sanfoundry.com/operating-system-mcqs-disk-scheduling-1/">Disk Scheduling1</a>
+  3. <a href="https://www.sanfoundry.com/operating-system-mcqs-disk-scheduling-2/">Disk Scheduling2</a>
